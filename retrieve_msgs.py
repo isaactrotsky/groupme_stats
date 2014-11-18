@@ -20,7 +20,7 @@ parser.add_argument('-c', '--csv', help='Name of csv file to write to.', default
 parser.add_argument('-o', '--overwrite', help='overwrite csv file', action="store_true")
 
 URL = 'https://api.groupme.com/v3'
-TOKEN = None
+TOKEN = c24e7ec05108013262db3e80cb062f8c
 
 ########## STAT FUNCTIONS ##########
 
